@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nathan Lee nlee@gmail.com
 
 # THANKS
 
