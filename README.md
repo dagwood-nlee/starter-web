@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 ## Final
+
+### Copyright
+
+2014 IT.Training
